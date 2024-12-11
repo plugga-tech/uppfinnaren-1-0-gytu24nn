@@ -7,6 +7,7 @@ public class ContactInformationController : Controller
 {
     public IActionResult Index()
     {
+        ViewBag.Title = "Contact";
         return View();
     }
 }
