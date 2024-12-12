@@ -39,4 +39,4 @@ C:\Users\tuvag\repos\dynamiskt webbapplikation 1\inlämningar\uppfinnaren-1-0-gy
 C:\Users\tuvag\repos\dynamiskt webbapplikation 1\inlämningar\uppfinnaren-1-0-gytu24nn\obj\Debug\net9.0\ref\uppfinnaren-1-0-gytu24nn.dll
 C:\Users\tuvag\repos\dynamiskt webbapplikation 1\inlämningar\uppfinnaren-1-0-gytu24nn\obj\Debug\net9.0\compressed\vw28q28sme-03hjc8e09r.gz
 C:\Users\tuvag\repos\dynamiskt webbapplikation 1\inlämningar\uppfinnaren-1-0-gytu24nn\obj\Debug\net9.0\compressed\gcrzdwlzp3-48y08845bh.gz
-C:\Users\tuvag\repos\dynamiskt webbapplikation 1\inlämningar\uppfinnaren-1-0-gytu24nn\obj\Debug\net9.0\compressed\r6xu8vwzcz-n15jq8256l.gz
+C:\Users\tuvag\repos\dynamiskt webbapplikation 1\inlämningar\uppfinnaren-1-0-gytu24nn\obj\Debug\net9.0\compressed\r6xu8vwzcz-x282y8rznh.gz

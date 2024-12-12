@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tFYacvtnVVWso8uuGQuT/pW715+B+fw4kMgu41DF34U=",
+  "Hash": "bCdheIANPEvvbsvHleYCeEVtFRmrgzsR64YCSno+cpQ=",
   "Source": "uppfinnaren-1-0-gytu24nn",
   "BasePath": "_content/uppfinnaren-1-0-gytu24nn",
   "Mode": "Default",
@@ -122,12 +122,12 @@
       "OriginalItemSpec": "C:\\Users\\tuvag\\repos\\dynamiskt webbapplikation 1\\inlämningar\\uppfinnaren-1-0-gytu24nn\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\tuvag\\repos\\dynamiskt webbapplikation 1\\inlämningar\\uppfinnaren-1-0-gytu24nn\\obj\\Debug\\net9.0\\compressed\\r6xu8vwzcz-n15jq8256l.gz",
+      "Identity": "C:\\Users\\tuvag\\repos\\dynamiskt webbapplikation 1\\inlämningar\\uppfinnaren-1-0-gytu24nn\\obj\\Debug\\net9.0\\compressed\\r6xu8vwzcz-x282y8rznh.gz",
       "SourceId": "uppfinnaren-1-0-gytu24nn",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tuvag\\repos\\dynamiskt webbapplikation 1\\inlämningar\\uppfinnaren-1-0-gytu24nn\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/uppfinnaren-1-0-gytu24nn",
-      "RelativePath": "css/site#[.{fingerprint=n15jq8256l}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=x282y8rznh}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -136,8 +136,8 @@
       "RelatedAsset": "C:\\Users\\tuvag\\repos\\dynamiskt webbapplikation 1\\inlämningar\\uppfinnaren-1-0-gytu24nn\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mmyfnx50du",
-      "Integrity": "8rdHuk1MBNrda9Axe+aFsffuoBvMnOfGnSZH7ZJRdAs=",
+      "Fingerprint": "hvq87yzoln",
+      "Integrity": "DZm5VcesPKBMAGWYK/O33LTTTCLyLj03zsHIsYC8CAU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\tuvag\\repos\\dynamiskt webbapplikation 1\\inlämningar\\uppfinnaren-1-0-gytu24nn\\wwwroot\\css\\site.css"
@@ -241,8 +241,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "n15jq8256l",
-      "Integrity": "S3os0/fHVcYeew0ewa+RgPdagMHvcVskAT1Pg+gWX+g=",
+      "Fingerprint": "x282y8rznh",
+      "Integrity": "l3hNMs03Gdr2eEwxHps/2DQihFYXqtQeueWxXuGf/FI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -524,12 +524,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\tuvag\\repos\\dynamiskt webbapplikation 1\\inlämningar\\uppfinnaren-1-0-gytu24nn\\obj\\Debug\\net9.0\\compressed\\r6xu8vwzcz-n15jq8256l.gz",
+      "AssetFile": "C:\\Users\\tuvag\\repos\\dynamiskt webbapplikation 1\\inlämningar\\uppfinnaren-1-0-gytu24nn\\obj\\Debug\\net9.0\\compressed\\r6xu8vwzcz-x282y8rznh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002570694087"
+          "Quality": "0.002463054187"
         }
       ],
       "ResponseHeaders": [
@@ -539,15 +539,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "388"
+          "Value": "405"
         },
         {
           "Name": "ETag",
-          "Value": "\"8rdHuk1MBNrda9Axe+aFsffuoBvMnOfGnSZH7ZJRdAs=\""
+          "Value": "\"DZm5VcesPKBMAGWYK/O33LTTTCLyLj03zsHIsYC8CAU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 14:11:28 GMT"
+          "Value": "Thu, 12 Dec 2024 20:07:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -567,13 +567,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"S3os0/fHVcYeew0ewa+RgPdagMHvcVskAT1Pg+gWX+g=\""
+          "Value": "W/\"l3hNMs03Gdr2eEwxHps/2DQihFYXqtQeueWxXuGf/FI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-S3os0/fHVcYeew0ewa+RgPdagMHvcVskAT1Pg+gWX+g="
+          "Value": "sha256-l3hNMs03Gdr2eEwxHps/2DQihFYXqtQeueWxXuGf/FI="
         }
       ]
     },
@@ -588,7 +588,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "836"
+          "Value": "887"
         },
         {
           "Name": "Content-Type",
@@ -596,11 +596,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S3os0/fHVcYeew0ewa+RgPdagMHvcVskAT1Pg+gWX+g=\""
+          "Value": "\"l3hNMs03Gdr2eEwxHps/2DQihFYXqtQeueWxXuGf/FI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 14:11:28 GMT"
+          "Value": "Thu, 12 Dec 2024 20:07:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -610,13 +610,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-S3os0/fHVcYeew0ewa+RgPdagMHvcVskAT1Pg+gWX+g="
+          "Value": "sha256-l3hNMs03Gdr2eEwxHps/2DQihFYXqtQeueWxXuGf/FI="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\tuvag\\repos\\dynamiskt webbapplikation 1\\inlämningar\\uppfinnaren-1-0-gytu24nn\\obj\\Debug\\net9.0\\compressed\\r6xu8vwzcz-n15jq8256l.gz",
+      "AssetFile": "C:\\Users\\tuvag\\repos\\dynamiskt webbapplikation 1\\inlämningar\\uppfinnaren-1-0-gytu24nn\\obj\\Debug\\net9.0\\compressed\\r6xu8vwzcz-x282y8rznh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -625,7 +625,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "388"
+          "Value": "405"
         },
         {
           "Name": "Content-Type",
@@ -633,11 +633,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8rdHuk1MBNrda9Axe+aFsffuoBvMnOfGnSZH7ZJRdAs=\""
+          "Value": "\"DZm5VcesPKBMAGWYK/O33LTTTCLyLj03zsHIsYC8CAU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 14:11:28 GMT"
+          "Value": "Thu, 12 Dec 2024 20:07:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -655,18 +655,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8rdHuk1MBNrda9Axe+aFsffuoBvMnOfGnSZH7ZJRdAs="
+          "Value": "sha256-DZm5VcesPKBMAGWYK/O33LTTTCLyLj03zsHIsYC8CAU="
         }
       ]
     },
     {
-      "Route": "css/site.n15jq8256l.css",
-      "AssetFile": "C:\\Users\\tuvag\\repos\\dynamiskt webbapplikation 1\\inlämningar\\uppfinnaren-1-0-gytu24nn\\obj\\Debug\\net9.0\\compressed\\r6xu8vwzcz-n15jq8256l.gz",
+      "Route": "css/site.x282y8rznh.css",
+      "AssetFile": "C:\\Users\\tuvag\\repos\\dynamiskt webbapplikation 1\\inlämningar\\uppfinnaren-1-0-gytu24nn\\obj\\Debug\\net9.0\\compressed\\r6xu8vwzcz-x282y8rznh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002570694087"
+          "Quality": "0.002463054187"
         }
       ],
       "ResponseHeaders": [
@@ -676,15 +676,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "388"
+          "Value": "405"
         },
         {
           "Name": "ETag",
-          "Value": "\"8rdHuk1MBNrda9Axe+aFsffuoBvMnOfGnSZH7ZJRdAs=\""
+          "Value": "\"DZm5VcesPKBMAGWYK/O33LTTTCLyLj03zsHIsYC8CAU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 14:11:28 GMT"
+          "Value": "Thu, 12 Dec 2024 20:07:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -704,13 +704,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"S3os0/fHVcYeew0ewa+RgPdagMHvcVskAT1Pg+gWX+g=\""
+          "Value": "W/\"l3hNMs03Gdr2eEwxHps/2DQihFYXqtQeueWxXuGf/FI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n15jq8256l"
+          "Value": "x282y8rznh"
         },
         {
           "Name": "label",
@@ -718,12 +718,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-S3os0/fHVcYeew0ewa+RgPdagMHvcVskAT1Pg+gWX+g="
+          "Value": "sha256-l3hNMs03Gdr2eEwxHps/2DQihFYXqtQeueWxXuGf/FI="
         }
       ]
     },
     {
-      "Route": "css/site.n15jq8256l.css",
+      "Route": "css/site.x282y8rznh.css",
       "AssetFile": "C:\\Users\\tuvag\\repos\\dynamiskt webbapplikation 1\\inlämningar\\uppfinnaren-1-0-gytu24nn\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -733,7 +733,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "836"
+          "Value": "887"
         },
         {
           "Name": "Content-Type",
@@ -741,11 +741,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S3os0/fHVcYeew0ewa+RgPdagMHvcVskAT1Pg+gWX+g=\""
+          "Value": "\"l3hNMs03Gdr2eEwxHps/2DQihFYXqtQeueWxXuGf/FI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 14:11:28 GMT"
+          "Value": "Thu, 12 Dec 2024 20:07:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -755,7 +755,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n15jq8256l"
+          "Value": "x282y8rznh"
         },
         {
           "Name": "label",
@@ -763,13 +763,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-S3os0/fHVcYeew0ewa+RgPdagMHvcVskAT1Pg+gWX+g="
+          "Value": "sha256-l3hNMs03Gdr2eEwxHps/2DQihFYXqtQeueWxXuGf/FI="
         }
       ]
     },
     {
-      "Route": "css/site.n15jq8256l.css.gz",
-      "AssetFile": "C:\\Users\\tuvag\\repos\\dynamiskt webbapplikation 1\\inlämningar\\uppfinnaren-1-0-gytu24nn\\obj\\Debug\\net9.0\\compressed\\r6xu8vwzcz-n15jq8256l.gz",
+      "Route": "css/site.x282y8rznh.css.gz",
+      "AssetFile": "C:\\Users\\tuvag\\repos\\dynamiskt webbapplikation 1\\inlämningar\\uppfinnaren-1-0-gytu24nn\\obj\\Debug\\net9.0\\compressed\\r6xu8vwzcz-x282y8rznh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -778,7 +778,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "388"
+          "Value": "405"
         },
         {
           "Name": "Content-Type",
@@ -786,11 +786,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8rdHuk1MBNrda9Axe+aFsffuoBvMnOfGnSZH7ZJRdAs=\""
+          "Value": "\"DZm5VcesPKBMAGWYK/O33LTTTCLyLj03zsHIsYC8CAU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 14:11:28 GMT"
+          "Value": "Thu, 12 Dec 2024 20:07:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -808,7 +808,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n15jq8256l"
+          "Value": "x282y8rznh"
         },
         {
           "Name": "label",
@@ -816,7 +816,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8rdHuk1MBNrda9Axe+aFsffuoBvMnOfGnSZH7ZJRdAs="
+          "Value": "sha256-DZm5VcesPKBMAGWYK/O33LTTTCLyLj03zsHIsYC8CAU="
         }
       ]
     },
