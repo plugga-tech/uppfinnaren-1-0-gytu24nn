@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("uppfinnaren-1-0-gytu24nn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5683f0bfbd4d542fb5bfb0caac8355b40a134a01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88538044c28f432a803e24e6c86e8754815758a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("uppfinnaren-1-0-gytu24nn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("uppfinnaren-1-0-gytu24nn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
