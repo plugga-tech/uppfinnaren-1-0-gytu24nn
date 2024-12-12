@@ -16,13 +16,12 @@ public class ArtworkController : Controller
 
     public IActionResult Index()
     {   
-        ViewBag.Title = "Konstverk";
         return View(_artworkRepository.AllArtwork);
     }
 
     public IActionResult Info(int id)
     {   
-        ViewBag.Title = "";
+        
         var artwork = _artworkRepository.GetArtworkById(id);
         return View(artwork);
     }   
