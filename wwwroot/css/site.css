@@ -5,12 +5,6 @@
   margin-top: 1em;
 }
 
-*{
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-
 .center-container
 {
   display: flex;
@@ -19,6 +13,7 @@
   justify-content: center;
   height: 100%;
   text-align: center;
+  margin: 0;
 }
 
 #information
@@ -42,4 +37,34 @@ a, :visited {
 #linksforArtworks
 {
   margin-top: 0.4em;
+}
+
+.menu
+{
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin-top: 1em;
+}
+
+.menu li
+{
+  margin: 0 1em;
+}
+
+.menu a 
+{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.menu a:hover
+{
+  color: #48a1f4;
+}
+
+#aboutUsText
+{
+  margin-top: -1em;
 }
