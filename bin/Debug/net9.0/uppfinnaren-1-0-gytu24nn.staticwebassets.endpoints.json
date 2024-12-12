@@ -625,7 +625,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 20:01:11 GMT"
+          "Value": "Thu, 12 Dec 2024 09:11:55 GMT"
         }
       ],
       "EndpointProperties": [
@@ -662,7 +662,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 20:01:11 GMT"
+          "Value": "Thu, 12 Dec 2024 09:11:55 GMT"
         }
       ],
       "EndpointProperties": [
@@ -707,7 +707,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 08:27:38 GMT"
+          "Value": "Thu, 12 Dec 2024 09:11:55 GMT"
         }
       ],
       "EndpointProperties": [
@@ -752,7 +752,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 08:27:38 GMT"
+          "Value": "Thu, 12 Dec 2024 09:11:55 GMT"
         }
       ],
       "EndpointProperties": [
@@ -789,7 +789,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 08:28:02 GMT"
+          "Value": "Thu, 12 Dec 2024 09:11:55 GMT"
         }
       ],
       "EndpointProperties": [
@@ -826,7 +826,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 08:28:02 GMT"
+          "Value": "Thu, 12 Dec 2024 09:11:55 GMT"
         }
       ],
       "EndpointProperties": [
@@ -871,7 +871,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 08:28:31 GMT"
+          "Value": "Thu, 12 Dec 2024 09:11:55 GMT"
         }
       ],
       "EndpointProperties": [
@@ -916,7 +916,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 08:28:31 GMT"
+          "Value": "Thu, 12 Dec 2024 09:11:55 GMT"
         }
       ],
       "EndpointProperties": [
@@ -953,7 +953,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 08:28:57 GMT"
+          "Value": "Thu, 12 Dec 2024 09:11:55 GMT"
         }
       ],
       "EndpointProperties": [
@@ -998,58 +998,13 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 08:28:57 GMT"
+          "Value": "Thu, 12 Dec 2024 09:11:55 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
           "Value": "sha256-cSAlHELFqlQx833dzHwkbh22IamYbsWtX8mtEisZTgA="
-        }
-      ]
-    },
-    {
-      "Route": "img/Artwork_6.00fe4es0r7.jpg",
-      "AssetFile": "img/Artwork_6.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "298631"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kIDtUH/yZALtUiRzPgBNtrMu8Duk3m3DDd5hCWJf/Xw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 08:29:22 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "00fe4es0r7"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-kIDtUH/yZALtUiRzPgBNtrMu8Duk3m3DDd5hCWJf/Xw="
-        },
-        {
-          "Name": "label",
-          "Value": "img/Artwork_6.jpg"
         }
       ]
     },
@@ -1068,7 +1023,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "298631"
+          "Value": "228893"
         },
         {
           "Name": "Content-Type",
@@ -1076,17 +1031,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kIDtUH/yZALtUiRzPgBNtrMu8Duk3m3DDd5hCWJf/Xw=\""
+          "Value": "\"NFsnJox0XJxtZX2TKtDhgYY5FLJybKgwm1c7ilxncWc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 08:29:22 GMT"
+          "Value": "Thu, 12 Dec 2024 10:09:57 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kIDtUH/yZALtUiRzPgBNtrMu8Duk3m3DDd5hCWJf/Xw="
+          "Value": "sha256-NFsnJox0XJxtZX2TKtDhgYY5FLJybKgwm1c7ilxncWc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Artwork_6.wpt3q28el4.jpg",
+      "AssetFile": "img/Artwork_6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "228893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NFsnJox0XJxtZX2TKtDhgYY5FLJybKgwm1c7ilxncWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 10:09:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wpt3q28el4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NFsnJox0XJxtZX2TKtDhgYY5FLJybKgwm1c7ilxncWc="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Artwork_6.jpg"
         }
       ]
     },
@@ -1117,7 +1117,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 08:29:44 GMT"
+          "Value": "Thu, 12 Dec 2024 09:11:55 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1154,7 +1154,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 08:29:44 GMT"
+          "Value": "Thu, 12 Dec 2024 09:11:55 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1199,7 +1199,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 08:30:02 GMT"
+          "Value": "Thu, 12 Dec 2024 09:11:55 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1236,7 +1236,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 08:30:02 GMT"
+          "Value": "Thu, 12 Dec 2024 09:11:55 GMT"
         }
       ],
       "EndpointProperties": [
