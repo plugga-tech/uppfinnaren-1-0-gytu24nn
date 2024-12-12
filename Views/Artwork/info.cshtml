@@ -1,5 +1,18 @@
 @model Artwork
 
-<h1>Mer information @Model.ArtworkName:</h1>
+<div class="center-container">
+    <h1>Mer information @Model.ArtworkName:</h1>
 
-<img id="Picture" src="~/img/Artwork_@(Model.ArtworkId).jpg">
+    <img id="picture" src="~/img/Artwork_@(Model.ArtworkId).jpg">
+
+    
+
+    <div id="information">
+        <h3>Mer information om: @Model.ArtworkName</h3>
+        <p>Skapare: @Model.CreatedArtwork</p>
+        <p>Beskrivning: @Model.ArtworkDescription</p>
+        <p>År skapat: @Model.YearCreated</p>
+    </div>
+    
+</div>
+
