@@ -1,12 +1,27 @@
-@model IEnumerable<Artwork>
+@{
+    @model IEnumerable<ArtworkCategoryList>
+}
+
+<h1>Välj en kategori av alster som du vill kolla närmare på:</h1>
+
+<ul>
+    @foreach (ArtworkCategoryList artworkCategoryList in Model)
+    {
+        <li><a href="artwork/info/@artworkCategoryList.ArtworkCategoryListId">@artworkCategoryList.CategoryName</a></li>
+    }
+</ul>
+
+
+
+@* @model IEnumerable<Artwork>
 
 <h1>konstverk</h1>
 
 <h3>Välj ett konstverk du vill titta närmare på:</h3>
 
-@foreach(var artwork in Model)
+@foreach (var artwork in Model)
 {
     <div id="linksforArtworks">
         <a href="artwork/info/@artwork.ArtworkId">@artwork.ArtworkName</a>
     </div>
-}
+} *@
