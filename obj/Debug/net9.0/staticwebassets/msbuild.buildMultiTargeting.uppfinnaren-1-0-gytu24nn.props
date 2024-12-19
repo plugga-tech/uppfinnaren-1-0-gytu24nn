@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\uppfinnaren-1-0-gytu24nn.props" />
+</Project>
