@@ -6,23 +6,35 @@ namespace uppfinnaren_1_0_gytu24nn.Controllers;
 
 public class ArtworkController : Controller
 {
+    private readonly AppDbContext _context;
 
-    private readonly IArtworkRepository _artworkRepository;
-
-    public ArtworkController(IArtworkRepository artworkRepository)
+    public ArtworkController(AppDbContext context)
     {
-        _artworkRepository = artworkRepository;
+        _context = context;
     }
 
-    public IActionResult Index()
-    {   
-        return View(_artworkRepository.AllArtwork);
+    public ActionResult Index()
+    {
+        return View(_context.artworkCategoryLists.ToList());
     }
 
-    public IActionResult Info(int id)
-    {   
+
+    // private readonly IArtworkRepository _artworkRepository;
+
+    // public ArtworkController(IArtworkRepository artworkRepository)
+    // {
+    //     _artworkRepository = artworkRepository;
+    // }
+
+    // public IActionResult Index()
+    // {   
+    //     return View(_artworkRepository.AllArtwork);
+    // }
+
+    // public IActionResult Info(int id)
+    // {   
         
-        var artwork = _artworkRepository.GetArtworkById(id);
-        return View(artwork);
-    }   
+    //     var artwork = _artworkRepository.GetArtworkById(id);
+    //     return View(artwork);
+    // }   
 }
