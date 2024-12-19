@@ -1,10 +1,29 @@
 #picture {
-  max-width: 20%;   /* Responsiv storlek */
+  width: 7em;  /* Responsiv storlek */
   height: auto;      /* Bevara proportionerna */
   text-align: center;
   margin-top: 1em;
+  border: 1px solid black;
 }
 
+body
+{
+  background-color: 	#e3c6b4;
+
+}
+
+.divForItems
+{
+  width: 10em;
+}
+
+#productGallery
+{
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  margin: auto;
+}
 .center-container
 {
   display: flex;
@@ -16,22 +35,41 @@
   margin: 0;
 }
 
+#webbsideName{
+  font-family: 'Eclipse Moon', sans-serif;
+  font-size: 5em;
+  background-color: 	rgb(164, 120, 100, 0.5);
+  padding: 0.5em;
+  border-radius: 50px;
+}
+
+button{
+  font-size: 1em;
+  background-color: 	rgb(164, 120, 100, 0.5);
+  padding: 0.5em;
+  border-radius: 50px;
+  margin-top: 2em;
+  border: none;
+}
+
+button:hover{
+  background-color: rgb(146, 107, 89);
+}
+#menuForCategory
+{
+  display: flex;
+  flex-direction: column;
+  
+}
+
+a, a:visited{
+  text-decoration: none;
+  color: black;
+} 
+
 #information
 {
   margin-top: 1em;
-}
-
-
-a, a:visited{
-  text-decoration: none; 
-  
-
-}
-a:hover {
-  color: #48a1f4;
-}
-a, :visited {
-  color: black;
 }
 
 #linksforArtworks
@@ -61,7 +99,7 @@ a, :visited {
 
 .menu a:hover
 {
-  color: #48a1f4;
+  color:rgb(146, 107, 89);
 }
 
 #aboutUsText
@@ -73,3 +111,4 @@ a, :visited {
 {
   margin-top: -10px;
 }
+
