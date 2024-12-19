@@ -41,3 +41,6 @@ https://github.com/plugga-tech/uppfinnaren-1-0-gytu24nn.git
 3. Start the localhost: dotnet run
 
 4. Open the application in a browser
+
+
+testa nya main!!!!
