@@ -1,18 +1,20 @@
-@model Artwork
+@model IEnumerable<ArtworkItems>
 
-<div class="center-container">
-    <h1>Mer information @Model.ArtworkName:</h1>
+<h1>@ViewBag.CategoryName</h1>
 
-    <img id="picture" src="~/img/Artwork_@(Model.ArtworkId).jpg">
+<strong><h3>Här är alla alster i denna kategori:</h3></strong>
 
-    
-
-    <div id="information">
-        <h3>Mer information om: @Model.ArtworkName</h3>
-        <p>Skapare: @Model.CreatedArtwork</p>
-        <p>Beskrivning: @Model.ArtworkDescription</p>
-        <p>År skapat: @Model.YearCreated</p>
+<div id="productGallery">
+@foreach (var artwork in Model)
+{
+     
+    <div class="divForItems">
+        <img id="picture" src="~/img/Artwork_@(artwork.ArtworkItemsId).jpg"><br>
+        <strong>Namn:</strong> @artwork.ArtworkName<br>
+        <strong>Beskrivning:</strong> @artwork.ArtworkDescription<br>
+        <strong>Skapare:</strong> @artwork.CreatedArtwork<br>
+        <strong>År skapat:</strong> @artwork.YearCreated<br>
     </div>
-    
+}
 </div>
 

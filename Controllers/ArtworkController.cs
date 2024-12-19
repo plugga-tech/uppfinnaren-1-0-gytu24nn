@@ -18,6 +18,23 @@ public class ArtworkController : Controller
         return View(_context.artworkCategoryLists.ToList());
     }
 
+    public IActionResult info(int id)
+    {
+        var category = _context.artworkCategoryLists.FirstOrDefault(c => c.ArtworkCategoryListId == id);
+
+        if(category == null)
+        {
+            return NotFound();
+        }
+
+        ViewBag.CategoryName = category.CategoryName;
+
+        var itemsInCategory = _context.artworkItems.Where(item => item.ArtworkCategoryListId == id).ToList();
+
+        return View(itemsInCategory);
+
+    }
+
 
     // private readonly IArtworkRepository _artworkRepository;
 
