@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using uppfinnaren_1_0_gytu24nn.Models;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,6 +8,10 @@ var builder = WebApplication.CreateBuilder(args);
 //lägger till en services för den data jag skrivit in. 
 builder.Services.AddScoped<IArtworkRepository, MockArtworkRepository>();
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<AppDbContext>(options => 
+    options.UseInMemoryDatabase("ApladalensDataBase")
+);
 
 var app = builder.Build();
 
