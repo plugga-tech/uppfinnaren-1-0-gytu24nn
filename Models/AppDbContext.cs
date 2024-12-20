@@ -5,6 +5,8 @@ namespace uppfinnaren_1_0_gytu24nn.Models;
 
 public class AppDbContext : DbContext
 {
+    //här är databasen där allt som ska sparas skrivs in är som mock data fast man använder de egentligen för att testa data. 
+    //Listorna skapas även är som Dbset. 
     public AppDbContext(DbContextOptions<AppDbContext> options) : base (options)
     {
         this.Database.EnsureCreated();

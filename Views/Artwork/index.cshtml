@@ -1,3 +1,6 @@
+@*Här är vyn som skapades i controller och här kan man nu då skriva det som ska vara i den. På denna sidan hämtas listan kategorier 
+så att de kan skrivas ut och det görs även en foreach med razor kod som är C# kod som man kan skriva i html fil.*@
+
 @{
     @model IEnumerable<ArtworkCategoryList>
 }
@@ -8,6 +11,7 @@
     @foreach (ArtworkCategoryList artworkCategoryList in Model)
     {
         <button>
+            @*Här skrivs varje kategori namn ut som en länk där man sen kan gå vidare till alsterna i den kategori.*@
             <a href="artwork/info/@artworkCategoryList.ArtworkCategoryListId">@artworkCategoryList.CategoryName</a>
         </button>
     }
