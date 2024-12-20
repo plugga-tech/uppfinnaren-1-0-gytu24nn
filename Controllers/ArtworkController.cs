@@ -34,24 +34,4 @@ public class ArtworkController : Controller
         return View(itemsInCategory);
 
     }
-
-
-    // private readonly IArtworkRepository _artworkRepository;
-
-    // public ArtworkController(IArtworkRepository artworkRepository)
-    // {
-    //     _artworkRepository = artworkRepository;
-    // }
-
-    // public IActionResult Index()
-    // {   
-    //     return View(_artworkRepository.AllArtwork);
-    // }
-
-    // public IActionResult Info(int id)
-    // {   
-        
-    //     var artwork = _artworkRepository.GetArtworkById(id);
-    //     return View(artwork);
-    // }   
 }

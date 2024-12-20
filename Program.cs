@@ -6,7 +6,6 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 //lägger till en services för den data jag skrivit in. 
-// builder.Services.AddScoped<IArtworkRepository, MockArtworkRepository>();
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<AppDbContext>(options => 
