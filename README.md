@@ -2,12 +2,16 @@
 
 Apladals Boden is a website showcasing Tuva Gyllensten's artwork. Users can browse through various pieces, learn about the business, and find information on how to contact us.
 
+## Github Repo:
+- The repo has main and main-2.0 this is because the main-2.0 is more updated and has complete design
+
 ## About the Project
 
 Apladals Boden is a user-friendly website where you can:
 - Explore Tuva Gyllensten's artwork.
 - Read about the business.
 - Find contact information and details on how to visit us.
+
 
 The website is easy to navigate with the following menu options:
 - **Home**: The homepage with information about us.
